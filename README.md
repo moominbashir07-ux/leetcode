@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/moominbashir07-ux/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moominbashir07-ux/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/moominbashir07-ux/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/moominbashir07-ux/leetcode/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/moominbashir07-ux/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/moominbashir07-ux/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/moominbashir07-ux/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/moominbashir07-ux/leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/moominbashir07-ux/leetcode/tree/master/0118-pascals-triangle) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/moominbashir07-ux/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/moominbashir07-ux/leetcode/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/moominbashir07-ux/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
